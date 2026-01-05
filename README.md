@@ -1,5 +1,36 @@
-# 💫 About Me:
-👋 Hi, I’m Karan<br><br>💻 Junior Developer passionate about building modern, user-friendly applications and solving real-world problems.<br><br>🔭 I’m currently working on<br><br>🌐 APIs & Full-Stack projects<br><br>🖥️ Desktop apps using C#, WPF & .NET<br><br>🧪 Learning projects and websites<br><br>👯 I’m looking to collaborate on<br><br>💙 .NET / C# projects<br><br>🪟 WPF, MAUI & desktop applications<br><br>🌐 Full-stack apps using React.js & Next.js<br><br>🤝 I’m looking for help with<br><br>🧱 Software architecture & best practices<br><br>⚡ Improving performance and UI/UX<br><br>🗄️ Writing efficient SQL queries<br><br>🌱 I’m currently learning<br><br>🗄️ SQL<br><br>🧠 Application & system architecture<br><br>🎨 Better UI design and performance optimization<br><br>💬 Ask me about<br><br>💙 C#, .NET<br><br>🪟 WPF, MAUI<br><br>🌐 REST APIs, React.js, Next.js<br><br>⚡ Fun facts<br><br>I enjoy solving problems and refining UI until it feels just right<br><br>I love learning new tech and improving my projects step by step 🚀
+## 👋 Hi, I’m Karan
+
+💻 **Junior Developer** passionate about building modern, user-friendly applications and solving real-world problems.
+
+### 🔭 I’m currently working on
+- 🌐 APIs & Full-Stack projects  
+- 🖥️ Desktop apps using **C#, WPF & .NET**  
+- 🧪 Learning projects and websites  
+
+### 👯 I’m looking to collaborate on
+- 💙 .NET / C# projects  
+- 🪟 WPF, MAUI & desktop applications  
+- 🌐 Full-stack apps using **React.js & Next.js**  
+
+### 🤝 I’m looking for help with
+- 🧱 Software architecture & best practices  
+- ⚡ Improving performance and UI/UX  
+- 🗄️ Writing efficient SQL queries  
+
+### 🌱 I’m currently learning
+- 🗄️ SQL  
+- 🧠 Application & system architecture  
+- 🎨 Better UI design and performance optimization  
+
+### 💬 Ask me about
+- 💙 C#, .NET  
+- 🪟 WPF, MAUI  
+- 🌐 REST APIs, React.js, Next.js  
+
+### ⚡ Fun facts
+- I enjoy solving problems and refining UI until it feels just right  
+- I love learning new tech and improving my projects step by step 🚀  
+
 
 
 ## 🌐 Socials:
